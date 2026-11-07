@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2600&pause=900&color=CCCCCC&center=true&vCenter=true&width=600&lines=%3E+ol%C3%A1%2C+eu+sou+a+Mariana+Cardoso;%3E+administra%C3%A7%C3%A3o+%26+tecnologia;%3E+desenvolvedora+web+em+forma%C3%A7%C3%A3o;%3E+%5BSTATUS%3A+ABERTA+A+OPORTUNIDADES%5D" alt="> olá, eu sou a Mariana Cardoso" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2600&pause=900&color=CCCCCC&center=true&vCenter=true&width=600&lines=%3E+Ol%C3%A1%2C+eu+sou+a+Mariana+Cardoso;%3E+Administra%C3%A7%C3%A3o+%26+Tecnologia;%3E+Desenvolvedora+web+em+forma%C3%A7%C3%A3o;%3E+%5BSTATUS%3A+ABERTA+A+OPORTUNIDADES%5D" alt="> Olá, eu sou a Mariana Cardoso" />
 </p>
 
 ---
 
-<p align="center"><i>um passo de cada vez, uma linha de código por vez.</i></p>
+<p align="center"><i>Um passo de cada vez, uma linha de código por vez.</i></p>
 
 ---
 
 ```yaml
-role:      Administração & Tecnologia
-location:  Manaus, AM — BR
-education: Técnico em Informática (IFAM)
-studying:  Desenvolvimento Web Fullstack · Cibersegurança
-status:    Aberta a novas oportunidades
-english:   Básico   [ ███░░░░░░░ 30% ]
-web dev:   Aprendendo [ ██████░░░░ 60% ]
+Área:      Administração & Tecnologia
+Cidade:    Manaus, AM — BR
+Formação:  Técnico em Informática (IFAM)
+Estudando: Desenvolvimento Web Fullstack · Cibersegurança
+Status:    Aberta a novas oportunidades
+Inglês:    Básico      [###-------] 30%
+Web dev:   Aprendendo  [######----] 60%
 ```
 
 ---
@@ -54,8 +54,8 @@ web dev:   Aprendendo [ ██████░░░░ 60% ]
 ## Idiomas
 
 ```text
-Português  ██████████  10/10  Nativo
-Inglês     ███░░░░░░░   3/10  Básico
+Português  [##########]  10/10  Nativo
+Inglês     [###-------]   3/10  Básico
 ```
 
 ---
