@@ -79,9 +79,3 @@ Status:      ✿ Aberta a novas oportunidades ✿
 Português  ♥♥♥♥♥♥♥♥♥♥  Nativo
 Inglês     ♥♥♥♡♡♡♡♡♡♡  Básico
 ```
-
----
-
-<p align="center">
-  <code>Feito com 💗 em Manaus</code> · <code>Obrigada pela visita ✿</code>
-</p>
